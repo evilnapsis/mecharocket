@@ -137,7 +137,7 @@
                   <div class="small text-muted">Administrador</div>
                 </div>
                 <div class="dropdown-divider"></div>
-                <a class="dropdown-item" href="./?action=processlogout">
+                <a class="dropdown-item" href="./?action=access&opt=logout">
                   <i class="bi bi-box-arrow-right me-2 text-danger"></i> Cerrar sesión
                 </a>
               </div>
